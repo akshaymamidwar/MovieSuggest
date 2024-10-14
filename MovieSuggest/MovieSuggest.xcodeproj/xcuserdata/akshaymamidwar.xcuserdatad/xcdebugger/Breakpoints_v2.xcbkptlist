@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E85E44D5-591B-4E50-BD38-EB092070CC99"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08472D45-27D1-4C71-A17D-26AFBAF6209B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieSuggest/Networking/MovieCacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "getMovieDetail(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "08472D45-27D1-4C71-A17D-26AFBAF6209B - ab4bf47a4bb8f84e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieSuggest.MovieCacheManager.getMovieDetail(for: Swift.Int) -&gt; Swift.Optional&lt;MovieSuggest.MovieDetailModel&gt;"
+                  moduleName = "MovieSuggest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshaymamidwar/Documents/Akshay%20Personal/MovieSuggest/MovieSuggest/Networking/MovieCacheManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "08472D45-27D1-4C71-A17D-26AFBAF6209B - ab4bf47a4bb8fb8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieSuggest.MovieCacheManager.getMovieDetail(for: Swift.Int) -&gt; Swift.Optional&lt;MovieSuggest.MovieDetailModel&gt;"
+                  moduleName = "MovieSuggest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshaymamidwar/Documents/Akshay%20Personal/MovieSuggest/MovieSuggest/Networking/MovieCacheManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "236">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "837C3163-B93F-466A-AD4D-C54009AC5A2C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieSuggest/Networking/NetworkClientAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "fetchMovieDetails(for:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0ECCEFF1-7636-41F2-B973-3C323F316BB7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieSuggestTests/MockNetworkClientAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "fetchMovieDetail(for:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "236B9667-F9FD-4B1F-A47C-3A3576BE5CC1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieSuggest/Networking/NetworkClientAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "168"
+            endingLineNumber = "168"
+            landmarkName = "requestMoviesList(startIndex:count:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF457E1E-AB73-417D-85B0-98418D661E60"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieSuggestTests/MovieSuggestTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "testFetchMovieDetail_Success()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "046433AC-CA7F-419E-93C6-1CB61E88F1B5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieSuggestTests/MovieSuggestTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "testFetchMovieDetail_Success()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "046433AC-CA7F-419E-93C6-1CB61E88F1B5 - b968e413d2fa05dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieSuggestTests.MovieDetailTests.testFetchMovieDetail_Success() -&gt; ()"
+                  moduleName = "MovieSuggestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshaymamidwar/Documents/Akshay%20Personal/MovieSuggest/MovieSuggestTests/MovieSuggestTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "612">
+               </Location>
+               <Location
+                  uuid = "046433AC-CA7F-419E-93C6-1CB61E88F1B5 - 2b9da234b6faafd1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in MovieSuggestTests.MovieDetailTests.testFetchMovieDetail_Success() -&gt; ()"
+                  moduleName = "MovieSuggestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshaymamidwar/Documents/Akshay%20Personal/MovieSuggest/MovieSuggestTests/MovieSuggestTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
